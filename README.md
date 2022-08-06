@@ -12,3 +12,9 @@ _printf replicates the C standard library printf() function.
 - Applying variadic functions to a big project
 - The complexities of printf
 - Managing a lot of files and finding a good workflow
+
+
+## Authors
+
+Yohannes kanko: johanneskanko7@gmail.com
+Balogun Adedotun: adedotun_balogun@yahoo.com
