@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@YOHANNES-cmd 
-Adebayo-S
-/
-printf
-Public
-Code
-Issues
-Pull requests
-Discussions
-Actions
-Projects
-1
-Wiki
-Security
-Insights
-printf/_printf.c
-@Adebayo-S
-Adebayo-S [fix]: case E and r appended
-Latest commit 02af940 on Apr 21
- History
- 2 contributors
-@Adebayo-S@Gejix
-51 lines (48 sloc)  1.17 KB
-
 #include "main.h"
 
 /**
@@ -80,18 +49,3 @@ int _printf(const char *format, ...)
 	print_buff(buffer, buff_count);
 	return (buff_count);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
