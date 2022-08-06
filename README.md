@@ -16,5 +16,5 @@ _printf replicates the C standard library printf() function.
 
 ## Authors
 
--'Yohannes kanko:' johanneskanko7@gmail.com
--'Balogun Adedotun:' adedotun_balogun@yahoo.com
+- `Yohannes Kanko:` johanneskanko7@gmail.com
+- `Balogun Adedotun:` adedotun_balogun@yahoo.com
