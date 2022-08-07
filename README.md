@@ -1,7 +1,7 @@
 # 0x11. C - printf
 ## Description
 
-This team project is part of the first year curriculum of Holberton School and ALX_Africa.
+This team project is part of the first year curriculum of ALX_Africa.
 
 _printf replicates the C standard library printf() function.
 
